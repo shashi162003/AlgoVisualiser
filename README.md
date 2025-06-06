@@ -18,7 +18,7 @@ A comprehensive, interactive web application for visualizing and understanding f
 
 ## 🚀 Live Demo
 
-Visit the live application: [Algorithm Visualizer](https://your-deployed-url.com)
+Visit the live application: **[Algorithm Visualizer](https://shashi162003.github.io/AlgoVisualiser/)**
 
 ## 📋 Table of Contents
 
@@ -99,6 +99,16 @@ Visit the live application: [Algorithm Visualizer](https://your-deployed-url.com
 
 4. **Open your browser**
    Navigate to `http://localhost:5173`
+
+### Deployment
+
+To deploy to GitHub Pages:
+
+```bash
+npm run deploy
+```
+
+This will build the project and deploy it to the `gh-pages` branch automatically.
 
 ## 🎮 Usage
 
